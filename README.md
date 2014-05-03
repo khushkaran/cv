@@ -6,9 +6,9 @@ people enjoy - especially through technology.
 Code examples
 -------------
 
-| [Rock Paper Scissors] | [Sudoku] | [Airport] |
+| [Slate] | [Rock Paper Scissors] | [Sudoku] |
 |-----------------|--------- |---------- |
-| Sinatra web app using jQuery that allows users to play Rock Paper Scissors Lizard Spock, popularised by the TV Show `The Big Bang Theory`. Also hosted on [Heroku](http://rpsls-khush.herokuapp.com). | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. Also hosted on [Heroku](http://sudoku-web-khush.herokuapp.com) | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+| Our final project @makersacademy worked on in a group of six. It is a request board for Makers Academy students to get the attention of teachers when they require assistance. Also provides data to teachers on students. Currently in progress. Also hosted on [Heroku](http://sl8.herokuapp.com) | Sinatra web app using jQuery that allows users to play Rock Paper Scissors Lizard Spock, popularised by the TV Show `The Big Bang Theory`. Also hosted on [Heroku](http://rpsls-khush.herokuapp.com). | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. Also hosted on [Heroku](http://sudoku-web-khush.herokuapp.com) |
 
 
 The Developer
@@ -28,6 +28,7 @@ Academy] in February 2014 to hone my programming skills.
 * HTML5 & ERB
 * CSS3 and Sass
 * JavaScript, jQuery and Ajax
+* Websockets
 * Rails 4-4.1
 * Sinatra
 * Test­ Driven Development
@@ -47,6 +48,7 @@ Academy] in February 2014 to hone my programming skills.
 * Pair programming
 * Objective-C (iOS Development - Basic)
 * Basic Graphics - Adobe Fireworks
+* Have used Adobe Flash, Dreamweaver & Sublime Text
 * Basic 3D Animation - Alias Maya
 
 The Employee
@@ -99,6 +101,6 @@ My email address is [khushkaran@me.com]
 [Makers Academy]: http://www.makersacademy.com
 [khushkaran@me.com]: mailto:khushkaran@me.com
 
-[Airport]: https://github.com/khushkaran/airport-control
 [Sudoku]: https://github.com/khushkaran/sudoku-web
 [Rock Paper Scissors]: https://github.com/khushkaran/rockpaperscissors
+[Slate]: https://github.com/slateapp/slate
