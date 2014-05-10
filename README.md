@@ -8,7 +8,7 @@ Code examples
 
 | [Slate] | [Rock Paper Scissors] | [Sudoku] |
 |-----------------|--------- |---------- |
-| Our final project @makersacademy worked on in a group of six. It is a request board for Makers Academy students to get the attention of teachers when they require assistance. Also provides data to teachers on students. Currently in progress. Also hosted on [Heroku](http://sl8.herokuapp.com) | Sinatra web app using jQuery that allows users to play Rock Paper Scissors Lizard Spock, popularised by the TV Show `The Big Bang Theory`. Also hosted on [Heroku](http://rpsls-khush.herokuapp.com). | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. Also hosted on [Heroku](http://sudoku-web-khush.herokuapp.com) |
+| Our final project @makersacademy worked on in a group of six. It is a request board for Makers Academy students to get the attention of teachers when they require assistance. Also provides data to teachers on students and utilises Twilio to inform Teachers of new problems. Also hosted on [Heroku](http://sl8.herokuapp.com) | Sinatra web app using jQuery that allows users to play Rock Paper Scissors Lizard Spock, popularised by the TV Show `The Big Bang Theory`. Also hosted on [Heroku](http://rpsls-khush.herokuapp.com). | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. Also hosted on [Heroku](http://sudoku-web-khush.herokuapp.com) |
 
 
 The Developer
