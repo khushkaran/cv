@@ -1,6 +1,6 @@
 Khushkaran Singh Bajwa
 ======================
-I'm a junior web developer. I enjoy making dreams a reality and software that
+I'm a software engineer. I enjoy making dreams a reality and software that
 people enjoy - especially through technology.
 
 Code examples
@@ -16,7 +16,10 @@ The Developer
 At 14 I began developing in HTML/CSS, moving onto Adobe Flash, dabbling in
 Alias Maya, Sony Vegas and Final Cut. Then began developing and deploying iOS
 Apps, some of which are still for sale on the App Store. I then joined [Makers
-Academy] in February 2014 to hone my programming skills.
+Academy] in February 2014 to hone my programming skills. Since then, I have been
+working at Causeway Technologies, using best practices and Agile/Scrum methodologies.
+
+I enjoy learning new skills, currently playing with ReactJS and Elixir with Phoenix Web Framework
 
 ### Makers Academy (Feb 14 - May 14)
 * 12-week bootcamp, commuting from Derby, totalling 14 hour days
@@ -28,13 +31,21 @@ Academy] in February 2014 to hone my programming skills.
 * HTML5 & ERB
 * CSS3 and Sass
 * JavaScript, jQuery and Ajax
+* AngularJS
+* ReactJS
 * Websockets
 * Rails 4-4.1
 * Sinatra
-* Test­ Driven Development
-* Unit testing with RSpec and Jasmine
-* Integration testing with Capybara
+* Test Driven Development
+* Ruby Unit testing with RSpec
+* Integration testing with Capybara and Cucumber
+* JavaScript Unit testing with:
+  * Karma - Spec Runner
+  * Mocha - Test Framework
+  * Sinon - Stubs/Spies
+  * Chai - Assertion Library
 * FactoryGirl
+* Dotenv (Ruby/JavaScript)
 * PostgreSQL
 * DataMapper
 * Version control with git, GitHub and BitBucket
@@ -42,9 +53,13 @@ Academy] in February 2014 to hone my programming skills.
 * User authentication and authorisation with bcrypt and Devise
 * Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
 * GitHub Flavoured Markdown
+* Deployment using Capistrano
 * Deployment to Heroku
+* Deployment to GitHub (Static Files)
+* Deployment to DigitalOcean
+* Deployment to AWS
 * Agile values, principles and practice
-* Object­ oriented principles and design
+* Object­oriented principles and design
 * Pair programming
 * Objective-C (iOS Development - Basic)
 * Basic Graphics - Adobe Fireworks
@@ -53,6 +68,12 @@ Academy] in February 2014 to hone my programming skills.
 
 The Employee
 ------------
+### Causeway Technologies
+**Software Engineer - (Aug 14 - Present)**
+- Developing Rails Project using best practices with scalability and readability in mind.
+- Using JavaScript Testing Frameworks such as Mocha alongside Sinon and Chai
+- Trying new technologies such as AngularJS and ReactJS (using the Flux Pattern)
+
 ### Menzies Aviation
 **Aircraft Dispatcher - (Jan 13 - Feb 14)**
 - Developed iOS app that aided colleagues to quickly calculate manual loadsheets
@@ -92,14 +113,12 @@ The Pupil
 
 Get in touch
 ------------
-I'm `khushkaran` on [LinkedIn], [GitHub] and own [khushkaran.com].
-My email address is [khushkaran@me.com]
+I'm `khushkaran` on [GitHub], `@KS1ngh` on [Twitter] and own [khushkaran.com].
 
 [khushkaran.com]: http://www.khushkaran.com
-[LinkedIn]: http://www.linkedin.com/in/khushkaran
 [GitHub]: http://www.github.com/khushkaran
+[Twitter]: http://www.twitter.com/ks1ngh
 [Makers Academy]: http://www.makersacademy.com
-[khushkaran@me.com]: mailto:khushkaran@me.com
 
 [Sudoku]: https://github.com/khushkaran/sudoku-web
 [Rock Paper Scissors]: https://github.com/khushkaran/rockpaperscissors
